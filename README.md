@@ -1,2 +1,2 @@
-# Animais-Fant-sticos
+# Animais-Fantasticos
 Projeto Desenvolvido no curso da Origamid
